@@ -24,7 +24,7 @@ const HumanBodyIllustration: React.FC<HumanBodyIllustrationProps> = ({ gender, c
       
       {/* Hair */}
       {gender === 'male' ? (
-        <path d="M 70 25 Q 100 15 130 25 Q 130 35 125 40 Q 100 20 75 40 Q 70 35 70 25" fill={hairColor}/>
+        <path d="M 70 25 Q 100 15 130 25 Q 130 35 125 40 Q 100 20 75 40 Q 70 35 70 25\" fill={hairColor}/>
       ) : (
         <path d="M 65 20 Q 100 10 135 20 Q 140 50 130 60 Q 100 15 70 60 Q 60 50 65 20" fill={hairColor}/>
       )}
