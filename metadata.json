@@ -1,0 +1,5 @@
+{
+  "name": "Explorateur du Système Endocrinien",
+  "description": "Une application web interactive et éducative pour explorer le système endocrinien humain, ses glandes et ses hormones. Conçue pour les étudiants et professionnels de santé.",
+  "requestFramePermissions": []
+}
